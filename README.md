@@ -1,4 +1,4 @@
-# Deep Research Agent with PydanticAI + Gradio+ Saját+vscode
+# Deep Research Agent with PydanticAI + Gradio
 
 A sophisticated **multi-turn research agent** built with **PydanticAI** and **Gradio** that conducts evidence-based research on any topic or stock ticker, generating structured reports with citations and risk assessments.
 
